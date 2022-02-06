@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\user\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\user\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.Dashboard.resources
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.productForm.resources
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.EmployeeForm.resources
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.CustomerForm.resources
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.SupplierForm.resources
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.OrdersForm.resources
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.CategoryForm.resources
+C:\Users\user\source\repos\Project\Project\obj\Debug\Project.LoginForm.resources
